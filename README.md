@@ -1,3 +1,12 @@
+## Projeto de estudo com Micronaut
+
+Para build ;
+
+./gradlew build 
+
+
+
+
 ## Micronaut 3.2.3 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.2.3/guide/index.html)
